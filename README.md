@@ -1,6 +1,6 @@
 # Exercise 16 — Testimonial Grid
 
-[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-16-testimonial-grid/) · [View source](https://github.com/vigneshsrinivasan-sys/exercise-16-testimonial-grid)
+[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-16-testimonial-grid/) · [HTML source](index.html) · [CSS source](styles.css)
 
 ![Rendered preview](preview.png)
 
@@ -25,4 +25,3 @@ Testimonial cards repeat a shared structure with location metadata, a constraine
 ## Sequence
 
 **Exercise 16 of 27** · Independent practice
-
