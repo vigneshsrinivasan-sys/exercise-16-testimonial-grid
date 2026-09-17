@@ -24,4 +24,4 @@ Testimonial cards repeat a shared structure with location metadata, a constraine
 
 ## Sequence
 
-**Exercise 16 of 27** · Independent practice
+**Exercise 16** · Independent practice
